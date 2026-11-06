@@ -1,0 +1,13 @@
+1. This is a review of the manuscript "The effect of launch angle on the horizontal range of a marble projectile" by Valliath et al, submitted as a research article to J S&E. I recommend major revisions.
+
+2. The title should be more informative of the results.
+
+3. The introduction confuses the order in time of different theories - I think Tartaglia came first, then Galileo and Newton later. The equations given probably need to be cited.
+
+4. In order to be replicable, the methods need to identify key equipment source/supplier or specifications. A setup drawing is probably needed here to explain the setup. In data analysis it is unclear why data are averaged before analysis. No explanation is given of what software was used to do the data analysis or if the code or raw data are available anywhere. 
+
+5. Results refers to the table but not to the graph, and does not describe in general what the findings and key statistics were. Results appear to be given in cm which is unacceptable it should give results in SI m-kg-s units. 
+
+6. Dicsussion never really weighs in on where Tartaglia, Galileo, or Newton are supported by the data or not.
+
+7. There are only 2 sources given - Galileo and Tartaglia - where more are defnitely needed. 
